@@ -1,0 +1,1 @@
+print(str(eval(input("How many hours? ")) * 60) + "mins")
