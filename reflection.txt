@@ -1,0 +1,1 @@
+Yesterday I learned all about the history of Artificial Intelligence. I learned about the early AI efforts which included some interesting strategies. One of the first groups to try to create general intelligence tried to do so by listing all of the axioms of our world and having the computer make inferences from there.
