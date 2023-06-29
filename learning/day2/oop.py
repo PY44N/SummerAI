@@ -16,9 +16,3 @@ class Student:
         print("\n".join([v.get_description() for v in self.courses]))
 
 
-math = Course("Math", "Mr. E")
-english = Course("English", "Mr. E")
-science = Course("Science", "Mr. E")
-
-bob = Student("Bob", 10, [math, english, science])
-bob.list_courses()
