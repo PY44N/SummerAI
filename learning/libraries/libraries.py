@@ -11,10 +11,10 @@ result_3 = random.randint(0, 100)
 print("Result_3 is", result_3)
 
 names = ["Amaryllis", "Godson", "Emily", "Reina", "Derin", "Elena", "Inacio"]
-print("Original Names:", names)
+print("Original Names:", ", ".join(names))
 
 random.shuffle(names)
-print("Shuffled Names:", names)
+print("Shuffled Names:", ", ".join(names))
 
 result_4 = random.choice(names)
 print("Result_4 is", result_4)
